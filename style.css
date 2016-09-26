@@ -1,0 +1,45 @@
+textarea{
+    width: 450px;
+    height: 200px;
+    resize: none;
+}
+
+h1{
+	text-align: center;
+}
+
+#translate-button {
+	background-color: #016bc6;
+    border: none;
+    color: white;
+    padding: 15px 30px;
+    font-size: 18px;
+}
+
+#column1 {
+	float: left;
+	width: 500px;
+	margin: 10px;
+	height: 210px;
+}
+#column2 {
+	float: left;
+	width: 150px;
+	margin: 10px;
+	height: 210px;
+}
+#column3 {
+	float: left;
+	width: 500px;
+	margin: 10px;
+	height: 210px;
+}
+
+
+p{
+	font-size: 24px;
+	font-family: Georgia, Times, serif;
+	margin-top: 0px;
+	width: 500px;
+	color: #111;
+}
